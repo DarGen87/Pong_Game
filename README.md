@@ -1,5 +1,5 @@
 # Pong_Game
-Pong Game programmed in Python
+Pong Game programmed with Python
 
 ///////////////// Commands ////////////////////
 
